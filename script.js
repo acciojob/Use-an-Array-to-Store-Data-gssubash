@@ -1,1 +1,1 @@
-
+let yourArray = ["Subash G",24,true];
